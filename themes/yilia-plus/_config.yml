@@ -4,10 +4,10 @@ author: "hikyuuPX"
 subtitle: "【道常无为而无不为】"
 
 menu:
-  嵌入式开发 - 调试      >>: /categories/嵌入式开发 - 调试
-  嵌入式开发 - 软件框架  >>: /categories/嵌入式开发 - 软件框架
-  嵌入式开发 - 电子电路  >>: /categories/嵌入式开发 - 电子电路
-  开源项目 - 硬件        >>: /categories/开源项目 - 硬件
+  嵌入式开发 - 调试: /categories/嵌入式开发 - 调试
+  嵌入式开发 - 软件框架: /categories/嵌入式开发 - 软件框架
+  嵌入式开发 - 电子电路: /categories/嵌入式开发 - 电子电路
+  开源项目 - 硬件: /categories/开源项目 - 硬件
 
 # subNav-子导航
 subNav:
