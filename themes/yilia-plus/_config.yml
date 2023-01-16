@@ -1,12 +1,13 @@
 ﻿# Header-菜单
 author: "hikyuuPX"
 
-subtitle: "道常无为而无不为"
+subtitle: "【道常无为而无不为】"
 
 menu:
-  学习随笔  >>: /categories/学习随笔
-  组件设计  >>: /categories/组件设计
-  美文鉴赏  >>: /categories/美文鉴赏
+  嵌入式开发 - 调试      >>: /categories/嵌入式开发 - 调试
+  嵌入式开发 - 软件框架  >>: /categories/嵌入式开发 - 软件框架
+  嵌入式开发 - 电子电路  >>: /categories/嵌入式开发 - 电子电路
+  开源项目 - 硬件        >>: /categories/开源项目 - 硬件
 
 # subNav-子导航
 subNav:
