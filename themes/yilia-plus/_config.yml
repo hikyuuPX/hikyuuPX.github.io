@@ -5,9 +5,9 @@ subtitle: "无为即是最大的有为"
 
 menu:
   主页: /
-  学习随笔: /categories/学习随笔
-  组件设计: /categories/组件设计
-  美文鉴赏: /categories/美文鉴赏
+  学习随笔 >>: /categories/学习随笔
+  组件设计 >>: /categories/组件设计
+  美文鉴赏 >>: /categories/美文鉴赏
 
 # subNav-子导航
 subNav:
